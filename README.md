@@ -64,6 +64,7 @@ Este proyecto en Python permite realizar un análisis comparativo manual del ín
 3. Ejecuta el script paso a paso.
 4. Visualiza y analiza los gráficos generados.
 5. Revisa los resultados exportados en la carpeta de salida.
+![image](https://github.com/user-attachments/assets/a1f61f71-5c56-443d-bd6f-d626e95ced9e)
 
 ## Créditos
 
